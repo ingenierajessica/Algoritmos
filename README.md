@@ -4,7 +4,7 @@ Diseño y Análisis de Algoritmos, Código y más
 Son cuadernos de código en Python que ayudarán a contemplar la ejecución de diferentes tipos de Algoritmos, por ejemplo:
  
 1.	 Ordenamiento
-2.	 Programación Avanzada
+2.	 Programación Dinámica
 3.	 Algoritmos Greedy
 4.	 Grafos y recorridos
  
